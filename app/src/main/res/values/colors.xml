@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--McArdle_Dean - s2026679-->
+<resources>
+    <color name="Light_Blue">#87CEFA</color>
+    <color name="Medium_Blue">#0000CD</color>
+    <color name="Dark_Blue">#00008B</color>
+    <color name="Navy">#00008B</color>
+    <color name="Dark_Cyan">#008B8B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appcolor">#E3E1E1</color>
+</resources>
